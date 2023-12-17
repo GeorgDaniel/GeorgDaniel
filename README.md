@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GeorgDaniel/GeorgDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my Github profile!
+
+## About Me
+
+I’m currently working on quantum computing tasks for the project SeQuenC.
+
+## Interests
+
+ - Quantum computing
+ - Cloud computing
+ - Old systems
+ - History of computers and gaming
